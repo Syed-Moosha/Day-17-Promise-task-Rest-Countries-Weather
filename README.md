@@ -1,1 +1,1 @@
-Restcountries weather by fecthing the data from open api
+Restcountries weather by fetching the data from open api
